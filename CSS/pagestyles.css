@@ -1,0 +1,15 @@
+img {
+    height: 130px;
+}
+body {
+    background-color: #FAF8F1;
+}
+hr {
+    background-color: #FAEAB1;
+    border-style: none;
+    height: 2px;
+    width: 30%;
+}
+h1, h3 {
+    color: #C58940;
+}
